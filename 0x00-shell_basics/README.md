@@ -7,3 +7,4 @@ Display current directory contents with user and groupID numerically
 Create a script that creates a directory
 moving file from one directory to the other
 delete file betty
+delete directory
