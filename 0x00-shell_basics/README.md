@@ -8,3 +8,4 @@ Create a script that creates a directory
 moving file from one directory to the other
 delete file betty
 delete directory
+script that changes the working directory to the previous one
