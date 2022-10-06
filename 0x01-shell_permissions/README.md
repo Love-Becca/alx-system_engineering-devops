@@ -1,1 +1,1 @@
-create a new file 
+script that adds execute permission to the owner of the file
